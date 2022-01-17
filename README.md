@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HpHiru
-- 👀 I’m interested in php web developent and Wannt learn React Js And TypeScript 
-- 🌱 I’m currently learning php and javascript also ajax and jquery 
-- 💞️ I’m looking to collaborate on Php Webdevelopment
+- 👀 I’m interested in php web developent and Want to learn ReactJs And TypeScript 
+- 🌱 I’m currently working on Laravel And Codeigniter and javascript,Jqery also ajax  
+- 💞️ I’m looking to collaborate on Php Web development
 - 📫 How to reach me ...Hirenp16895@gmail.com
 
 <!---
